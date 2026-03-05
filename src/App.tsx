@@ -1,3 +1,4 @@
+import React from "react";
 import Hyperspeed from "./components/Hyperspeed";
 import InvitationTabs from "./components/Tabs";
 

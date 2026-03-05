@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useRef, FC } from "react";
 import * as THREE from "three";
 import {
