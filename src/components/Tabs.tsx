@@ -19,8 +19,8 @@ function InvitationTabs() {
     const description =
       "27 + 26 años de caos combinado. Temática Cars + Real Madrid. ¡No faltes!";
     const location = "Ciudad de Mexico";
-    const startDate = "20250306T190000";
-    const endDate = "20250307T030000";
+    const startDate = "20260306T190000";
+    const endDate = "20260307T030000";
 
     if (isIOS) {
       const icsContent = `
